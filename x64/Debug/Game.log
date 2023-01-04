@@ -1,0 +1,6 @@
+﻿  main.cpp
+  PlaneGame.cpp
+D:\Code\Projects\BasketCh\PlaneGame.cpp(182,26): warning C4838: 从“float”转换到“int”需要收缩转换
+D:\Code\Projects\BasketCh\PlaneGame.cpp(182,26): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码...
+  Game.vcxproj -> D:\Code\Projects\BasketCh\x64\Debug\Game.exe
